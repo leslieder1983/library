@@ -1,0 +1,22 @@
+# DataSource Config
+spring:
+  datasource:
+    driver-class-name: com.mysql.cj.jdbc.Driver
+    url: jdbc:mysql://localhost:3306/library?useUnicode=true&useSSL=false&characterEncoding=utf8&serverTimezone=Asia/Shanghai
+    username: root
+    password: 123456
+mybatis-plus:
+  mapper-locations: classpath*:/mapper/**Mapper.xml
+#shiro-redis:
+#  enable: true
+#  redis-manager:
+#    host: 127.0.0.1:6379
+blog:
+  jwt:
+    #加密钥匙
+    secret: f4e2e52034348f86b67cde581c0f9eb5
+    #token有效时长，7天，单位秒
+    expire: 604800
+    header: Authorization
+server:
+  port: 8081
