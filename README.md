@@ -8,7 +8,11 @@
 
 ## 运行效果
 [登录效果图](https://gitee.com/kyleslie/img/raw/master/images/imgs/login.png)
-![登录效果](https://gitee.com/kyleslie/img/raw/master/images/imgs/login.png)
+[首页效果图](https://gitee.com/kyleslie/img/raw/master/images/imgs/main.png)
+[个人中心效果图](https://gitee.com/kyleslie/img/raw/master/images/imgs/userinfo.png)
+[通知页效果图](https://gitee.com/kyleslie/img/raw/master/images/imgs/messages.png)
+[用户管理效果图](https://gitee.com/kyleslie/img/raw/master/images/imgs/user.png)
+[订购页效果](https://gitee.com/kyleslie/img/raw/master/images/imgs/order.png)
 ## 资源目录
 
 `frontend`为前端源代码，如果只看运行效果可以不管。
