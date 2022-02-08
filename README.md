@@ -4,9 +4,10 @@
 ## 主要技术栈
 
 * 前端：Vue3+Element-plus+axios
-* 后端：Springboot+Mybaties-plus+Shiro
+* 后端：Springboot+Mybaties-plus+Shiro  
+
 ## 运行效果
-![登录效果图](https://gitee.com/kyleslie/img/raw/master/images/imgs/login.png)
+[登录效果图](https://gitee.com/kyleslie/img/raw/master/images/imgs/login.png)
 
 ## 资源目录
 
