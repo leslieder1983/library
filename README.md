@@ -8,7 +8,7 @@
 
 ## 运行效果
 [登录效果图](https://gitee.com/kyleslie/img/raw/master/images/imgs/login.png)
-
+![登录效果](https://gitee.com/kyleslie/img/raw/master/images/imgs/login.png)
 ## 资源目录
 
 `frontend`为前端源代码，如果只看运行效果可以不管。
